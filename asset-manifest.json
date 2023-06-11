@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qr-scanner-generator/static/css/main.073c9b0a.css",
+    "main.js": "/qr-scanner-generator/static/js/main.f5ec2569.js",
+    "static/js/787.55928024.chunk.js": "/qr-scanner-generator/static/js/787.55928024.chunk.js",
+    "static/media/logo.svg": "/qr-scanner-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qr-scanner-generator/index.html",
+    "main.073c9b0a.css.map": "/qr-scanner-generator/static/css/main.073c9b0a.css.map",
+    "main.f5ec2569.js.map": "/qr-scanner-generator/static/js/main.f5ec2569.js.map",
+    "787.55928024.chunk.js.map": "/qr-scanner-generator/static/js/787.55928024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f5ec2569.js"
+  ]
+}
